@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-#.DS_Store
 desktop.ini
 .Python
 build/
